@@ -17,8 +17,13 @@ function NavigationBar() {
 
           <Navbar.Collapse id="basic-navbar" className="flex justify-end ">
             <Nav className="">
-              <Nav.Link href="/">Home</Nav.Link>
-              <Nav.Link href="/SJY">About us</Nav.Link>
+              <Nav.Link href="#Carosule">Home</Nav.Link>
+              <Nav.Link href="#Service">Our Services</Nav.Link>
+              <Nav.Link href="#Invester">Invester Corner</Nav.Link>
+              <Nav.Link href="#Contact">Contact Us</Nav.Link>
+              <Nav.Link href="#Experts">Experts</Nav.Link>
+              <Nav.Link href="#Partners">Partners</Nav.Link>
+              <Nav.Link href="#About">About Us</Nav.Link>
             </Nav>
           </Navbar.Collapse>
         </Container>
