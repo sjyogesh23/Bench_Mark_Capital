@@ -22,7 +22,7 @@ function NavigationBar() {
               <Nav.Link href="#Invester">Invester Corner</Nav.Link>
               <Nav.Link href="#Contact">Contact Us</Nav.Link>
               <Nav.Link href="#Experts">Experts</Nav.Link>
-              <Nav.Link href="#Partners">Partners</Nav.Link>
+              {/* <Nav.Link href="#Partners">Partners</Nav.Link> */}
               <Nav.Link href="#About">About Us</Nav.Link>
             </Nav>
           </Navbar.Collapse>
