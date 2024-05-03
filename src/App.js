@@ -158,9 +158,9 @@ function App() {
         <div id="Experts" smooth>
           <MemberCardsContainer members={members} />
         </div>
-        <Container id="Partners" smooth>
+        {/* <Container id="Partners" smooth>
           <CardScroller images={images} />
-        </Container>
+        </Container> */}
         <div id="About" smooth>
           <TextContainer content={AboutContent} />
         </div>
